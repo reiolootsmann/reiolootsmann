@@ -24,4 +24,4 @@ See the full 10-week build-up in [daca-portfolio](https://github.com/reiolootsma
 
 ## Contact
 - Email: lootsmann.reio@gmail.com
-- LinkedIn: [add your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/reiolootsmann/
